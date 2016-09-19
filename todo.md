@@ -1,0 +1,5 @@
+- if the concatenated movie already exists, skip ahead
+- check to make sure the .MOV files are sequentially named
+- check to make sure the .MOV files are 5:00 or shorter
+- option not to recurse
+- option to give the concatenated movie a different name
